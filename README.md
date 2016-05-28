@@ -1,0 +1,2 @@
+# javaee_memoapp
+JavaEEとして作成したメモアプリのサンプル
