@@ -37,7 +37,7 @@ public class MemoEditBean implements Serializable{
         editMemo = memoFacade.find(key);
     }
     
-    public void ypdateMemo(){
+    public void updateMemo(){
         memoFacade.edit(editMemo);
     }
     
